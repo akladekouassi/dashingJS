@@ -1,0 +1,2 @@
+# dashingJS
+Angular dashboard project
